@@ -1,0 +1,46 @@
+html{
+    background: lightblue;
+    border-radius: 50;
+    width: auto;
+    height: auto;
+    
+}
+
+body{
+   
+    /* width: 100px;
+    height: 120px;
+    justify-content: center;
+    background-color: cornsilk;
+    display: flex; */
+
+   
+    float: left;
+    
+    width: 100px;
+    height: auto;
+    border: 1px solid #787171;
+    background-color: #c4d33c;
+    border: 1px solid #000000;
+    padding: 6px 8px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -o-border-radius: 5px;
+    border-radius: 5px;
+    /* shape-outside: circle();
+    clip-path: circle(); */
+
+  
+    
+    
+}
+
+p{
+    display: inline-flex;
+    margin: auto 10px;
+    font-size: 22px;
+    color: darkgoldenrod;
+    border-radius: 6px;
+    border: 1px sienna;
+    padding: 10px;
+}
